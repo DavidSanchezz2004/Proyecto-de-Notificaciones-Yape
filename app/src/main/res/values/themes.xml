@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base de la app: hereda de Material3 DayNight sin barra de acción -->
+    <style name="Theme.YapeNotifsExcel" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Opcional: puedes fijar colores si quieres; con M3 puedes omitir y usar dinámicos -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
