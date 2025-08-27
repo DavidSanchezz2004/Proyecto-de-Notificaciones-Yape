@@ -40,3 +40,16 @@ Su objetivo es **registrar notificaciones de Yape automáticamente**, almacenarl
 
 ---
 
+## 🛠️ Proximo a Integrarse 
+
+🔐 Seguridad & Privacidad
+- PIN o biometría (huella / FaceID) para abrir la app.
+- Cifrado de la base de datos (SQLCipher o Room + EncryptedFile).
+- Bloqueo selectivo: que los Excel solo se puedan abrir desde la app (no en cualquier visor).
+
+🎨 Interfaz y Experiencia de Usuario
+- Tema oscuro / claro dinámico.
+- Selector de fechas avanzado (calendario para elegir rango).
+- Etiquetas a los Yapes (ejemplo: “Trabajo”, “Amigos”, “Gastos”).
+- Widget en el home con resumen del día.
+
